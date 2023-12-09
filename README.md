@@ -13,9 +13,6 @@ Dieses Notebook biete eine Einführung in das Newton-Verfahren zur Nullstellensu
 - Wie lässt sich das Newton-Verfahren anwenden, um Extrempunkte von Funktionen
 zu finden?
 
-Dieses Notebook führt in die grundlegenden Ideen der nichtlinearen Optimierung ein. Anhand von interaktiven Plots werden das Gradientenverfahren für die Optimierung, sowie das Penalty-Verfahren für die Berücksichtigung von Nebenbedingungen erklärt. 
-Weiterhin wird gezeigt, wie sich nichtlineare Optimierung mit dem Python-Paket `Scipy` durchführen lässt, und es kommt noch ein Ausblick in die automatic differention mit dem Python-Paket `Autograd`.
-
 ## Zugriff über Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahudde/newton/HEAD?labpath=Newton_Nullstellenbestimmung.ipynb)
 
 Sie können auf das Notebook über Binder mit dem Link [https://mybinder.org/v2/gh/ahudde/newton/HEAD?labpath=Newton_Nullstellenbestimmung.ipynb](https://mybinder.org/v2/gh/ahudde/newton/HEAD?labpath=Newton_Nullstellenbestimmung.ipynb) zugreifen.
