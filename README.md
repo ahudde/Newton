@@ -19,7 +19,7 @@ Sie können auf das Notebook über Binder mit dem Link [https://mybinder.org/v2/
 
 ## Lokale Ausführung
 
-Man benötigt die Python-Anaconda Distribution (https://www.anaconda.com/products/individual). Zusätzlich sollte man noch das Pakee `plotly` installieren (`conda install plotly in den Anaconda-Prompt eingeben).
+Man benötigt die Python-Anaconda Distribution (https://www.anaconda.com/products/individual). Zusätzlich sollte man noch das Paket `plotly` installieren (`conda install plotly in den Anaconda-Prompt eingeben).
 
 ## Start
 
