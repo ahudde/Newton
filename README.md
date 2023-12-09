@@ -1,6 +1,8 @@
 # Nullstellenbestimmung mit dem Newton-Verfahren [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahudde/newton/HEAD?labpath=Newton_Nullstellenbestimmung.ipynb)
 
-Dieses Notebook biete eine Einführung in das Newton-Verfahren zur NUstellensuche.
+Dieses Notebook biete eine Einführung in das Newton-Verfahren zur Nullstellensuche.
+
+![newplot](newplot.png)
 
 ## Lernziele
 
