@@ -1,6 +1,6 @@
 # Nullstellenbestimmung mit dem Newton-Verfahren [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahudde/newton/HEAD?labpath=Newton_Nullstellenbestimmung.ipynb)
 
-Dieses Notebook biete eine Einführung in das Newton-Verfahren zur Nullstellensuche.
+Dieses Notebook bietet eine Einführung in das Newton-Verfahren zur Nullstellensuche.
 
 ![newplot](newplot.png)
 
@@ -25,7 +25,6 @@ Man benötigt die Python-Anaconda Distribution (https://www.anaconda.com/product
 
 Laden Sie die Dateien `Newton_Nullstellenbestimmung.ipynb`  sowie die 'newton.py' und das 'jpg'-Bild, und legen Sie diese im gleichen Ordner ab. Nun starten Sie Jupyter Notebook, z.B. indem Sie `jupyter notebook` in den Anaconda Prompt eingeben, und navigieren Sie zu der Datei.
 
-Nun können sie die einzelnen Zellen des Notebooks ausführen und sich so in das
-Newton-Verfahren einarbeiten. Viele Python-Zellen lassen sich mehrmals hintereinander ausführen, wobei jeweils ein neuer Iterationsschritt gezeigt wird. Am besten probiert man das einfach aus.
+Nun können sie die einzelnen Zellen des Notebooks ausführen und sich so in das Newton-Verfahren einarbeiten. Viele Python-Zellen lassen sich mehrmals hintereinander ausführen, wobei jeweils ein neuer Iterationsschritt gezeigt wird. Am besten probiert man das einfach aus.
 
 Viel Spaß beim Lernen!

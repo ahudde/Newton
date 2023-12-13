@@ -79,7 +79,7 @@ class plot(go.Figure):
             "x0=" + str(np.round(x0, 4)) +
             ", x" + str(Iterationen) + "=" + str(round(x[-1], Rundungswert)) +
             ", f(x" + str(Iterationen) + ")=" + str(round(f_x[-1], Rundungswert)) +
-            ", <br> f'(x" + str(Iterationen) + ")=" + str(df(x[-1])) + ")")
+            ", <br> f'(x" + str(Iterationen) + ")=" + str(df(x[-1])))
 
     def function_zoom(self, f):
         x_axis = np.linspace(self.xmin, self.xmax, 500)
